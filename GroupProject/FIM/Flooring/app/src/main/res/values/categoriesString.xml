@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Tile</item>
+        <item>Wood</item>
+        <item>Vinyl</item>
+        <item>Stone</item>
+        <item>Laminate</item>
+    </string-array>
+</resources>
